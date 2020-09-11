@@ -37,6 +37,7 @@ private:
 	short posx;
 	short posy;
 	short ataqueBase;
+	short psy;
 	short defensaBase;
 	short tipoPersonaje;
 	Inventario* armamento;
