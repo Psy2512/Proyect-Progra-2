@@ -34,6 +34,8 @@ private:
 	short vidaActual;
 	short vidaMaxima;
 	short posicion;
+	short posx;
+	short posy;
 	short ataqueBase;
 	short defensaBase;
 	short tipoPersonaje;
